@@ -53,11 +53,17 @@ This project strengthened my interest in environmental monitoring and helped me 
 real-world environmental conditions. It allowed me to connect analysis with meaningful real-life applications.
 
 ## Future Improvements
--Use real-world datasets.
--Apply machine learning for AQI predictions.
--Expand analysis over longer time periods.
+- Use real-world datasets.
+- Apply machine learning for AQI predictions.
+- Expand analysis over longer time periods.
 
 ## Files Included
 
 
 ## Data Source
+- Dataset Title: Global Air Quality Data(15 Days Hourly, 50 Cities)
+- Website: Kaggle
+- Author: Smeet Raichura
+- Source Link: https://www.kaggle.com/datasets/krithi96/dirty-data-for-cleaning](https://www.kaggle.com/datasets/smeet888/
+  global-air-quality-data15-days-hourly-50-cities
+- License: CC0: Public Domain
