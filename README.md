@@ -32,6 +32,12 @@ This project conducted these following analyses:
 6. **Comparative Analysis**. This phase displays the cities with the worst and cleanest air quality as well as the regional
     perspective of air quality readings.
 
+## Key Analysis Highlights
+###** Correlation Analysis**
+<img src = "Correlation.png" width = "500">
+### **Threshold Analysis**
+<img src = "Threshold.png" width = "500">
+
 ## Key Insights
 - Most cities fell under the “Unhealthy for Sensitive Groups” classification.
 - Good air quality has the smallest percentage among all the categories.
