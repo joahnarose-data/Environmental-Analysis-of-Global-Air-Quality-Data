@@ -39,6 +39,9 @@ This project conducted these following analyses:
 ### **Threshold Analysis**
 <img src = "Threshold.png" width = "500">
 
+### **Comparative Analysis**
+<img src = "Comparative.png" width = "500">
+
 ## Key Insights
 - Most cities fell under the “Unhealthy for Sensitive Groups” classification.
 - Good air quality has the smallest percentage among all the categories.
