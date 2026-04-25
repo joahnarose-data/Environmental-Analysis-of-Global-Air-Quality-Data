@@ -66,6 +66,5 @@ real-world environmental conditions. It allowed me to connect analysis with mean
 - Dataset Title: Global Air Quality Data(15 Days Hourly, 50 Cities)
 - Website: Kaggle
 - Author: Smeet Raichura
-- Source Link: https://www.kaggle.com/datasets/krithi96/dirty-data-for-cleaning](https://www.kaggle.com/datasets/smeet888/
-  global-air-quality-data15-days-hourly-50-cities
+- Source Link: https://www.kaggle.com/datasets/smeet888/global-air-quality-data15-days-hourly-50-cities
 - License: CC0: Public Domain
