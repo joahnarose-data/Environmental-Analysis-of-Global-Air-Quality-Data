@@ -33,7 +33,7 @@ This project conducted these following analyses:
     perspective of air quality readings.
 
 ## Key Analysis Highlights
-###** Correlation Analysis**
+### **Correlation Analysis**
 <img src = "Correlation.png" width = "500">
 ### **Threshold Analysis**
 <img src = "Threshold.png" width = "500">
