@@ -40,7 +40,7 @@ This project conducted these following analyses:
 - Air quality is not just a localized issue but a global concern.
 
 ## Dashboard Preview
-
+![Dashboard](Project2_Dashboard.png)
 
 ## Tools Used
 1. Excel Functions and Formulas
@@ -58,8 +58,10 @@ real-world environmental conditions. It allowed me to connect analysis with mean
 - Expand analysis over longer time periods.
 
 ## Files Included
-
-
+1. For full access to Project 2, please download the provided file to view analyses and final dashboard output.
+2. For optimal viewing, please set your screen to full-screen mode.
+- ![Project 2](Project2.xlsx)
+  
 ## Data Source
 - Dataset Title: Global Air Quality Data(15 Days Hourly, 50 Cities)
 - Website: Kaggle
