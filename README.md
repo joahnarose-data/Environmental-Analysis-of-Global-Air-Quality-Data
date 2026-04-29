@@ -71,6 +71,10 @@ real-world environmental conditions. It allowed me to connect analysis with mean
 1. For full access to Project 2, please download the provided file to view analyses and final dashboard output.
 2. For optimal viewing, please set your screen to full-screen mode.
 - ![Project 2](Project2.xlsx)
+
+To make the project more accessible, PDF version of the file is also provided. These do not display the entire 
+worksheet, but instead offer an overview of each sheet.
+- ![Project 2 PDF Version](Project2.pdf)
   
 ## Data Source
 - Dataset Title: Global Air Quality Data(15 Days Hourly, 50 Cities)
